@@ -1,2 +1,2 @@
 # Course-Notes
-A collection of lecture notes. Test
+A collection of lecture notes. 
