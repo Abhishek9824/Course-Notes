@@ -53,8 +53,6 @@ marks <- data.frame(
   Science = science,
   physics = physics
 )
-#To find percentage of Ravi in each subjects using marks$subjects functions
-toRavi <- ((marks$Hindi[2]/100)*100)
 
 
 print(marks) 
