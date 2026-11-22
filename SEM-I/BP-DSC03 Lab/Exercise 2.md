@@ -1,7 +1,6 @@
 DATE: 25-08-26
 
 OBJECTIVES: To solve the given assignment question
-
 *Protein*: 1HEW
 
 **Q1)** Color the protein in secondary structure colors.
